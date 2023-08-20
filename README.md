@@ -1,7 +1,6 @@
 ### Hi there, I'm Mohamed!👋
 
-I'm a Software Engineer from Tunisia working mainly as a Frontend Engineer for Telnet Holding's space engineering department.
-I also do Fullstack Development and UI/UX Design.
+I'm a Software Engineer, Fullstack Web Developer and UI/UX Designer from Tunisia.
 
 Feel free to connect with me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamedaleya) !
 
