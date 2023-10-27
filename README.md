@@ -1,6 +1,6 @@
 ### Hi there!👋
 
-I’m Mohamed, an Associate Software Engineer, Fullstack Developer and UI-UX Designer based in Tunisia. Currently employed at Telnet Holding, I specialize in designing and implementing dashboards that leverage satellite technology and IoT. My tech stack includes Django/Python, React, and Next.js. I’m passionate about creating human-centric solutions.
+I’m Mohamed, a Software Engineer, Fullstack Web Developer and UI/UX Designer based in Tunisia. Currently employed at Telnet Holding, I specialize in designing and implementing dashboards that leverage satellite technology and IoT. My tech stack includes but is not limited to Django/Python, React, MongoDB, MySQL and Next.js. I’m passionate about creating human-centric solutions.
 
 Feel free to connect with me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamedaleya) !
 
