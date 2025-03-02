@@ -1,6 +1,6 @@
 ### Hi there!👋
 
-I’m Mohamed, a Software Engineer, Fullstack Web Developer and UI/UX Designer based in Tunisia. My main tech stack is JavaScript, React, Node, MongoDB and Next.js. I’m passionate about creating human-centric solutions.
+I’m Mohamed, a Software Engineer, Fullstack Web Developer and UI/UX Designer from Tunisia. My main tech stack includes but is not limited to TypeScript, React, Node, MongoDB and Next.js 14+. I’m passionate about creating human-centric solutions.
 
 Feel free to connect with me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamedaleya) !
 
