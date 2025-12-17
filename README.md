@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-I’m Mohamed, a Full Stack Software Engineer, Designer & Cloud Enthusiast from Tunisia. I build data-driven web apps and dashboards for insurance, satellite/IoT and e-commerce/SaaS products.
+I’m Mohamed, a Full Stack Web Engineer, UX Designer & Cloud Enthusiast from Tunisia. I build data-driven web apps and dashboards for insurance, satellite/IoT and e-commerce/SaaS products.
 My main stack: **TypeScript, React & Next.js 14, Node.js/Express, Python (FastAPI/Django), Java/Spring Boot, MongoDB/PostgreSQL/Redis, Docker & Linux**. I enjoy owning products end-to-end — from UX in Figma/Adobe to production-ready code and cloud deployments.
 
 Feel free to connect with me on  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamedaleya)
