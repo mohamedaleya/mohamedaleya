@@ -18,44 +18,6 @@ I’m a Full Stack Engineer with 5 years of experience building web applications
 - Optimize performance with caching (Redis), query tuning, and payload reduction
 - Prototype practical AI features (semantic search, retrieval, assistant workflows) with safe patterns and human review
 
----
-
-## Experience
-
-**Sodedif Assurances** - Full Stack Web Engineer (Full-time) | Jun 2024 - Present  
-- Internal web applications and BI dashboards (TypeScript, React/Next.js, Node.js)  
-- APIs and services for business-critical workflows (validation, RBAC, logging)  
-- Reliability improvements: automated tests, structured logging, Sentry monitoring/alerts  
-- Performance improvements: Redis caching, query tuning, payload reduction  
-- AI-assisted features: semantic search and knowledge retrieval prototypes
-
-**Telnet Holding** - Full Stack Web Engineer (Full-time) | Jan 2022 - Jun 2024  
-- Real-time satellite and IoT dashboards (React/Next.js, WebSockets)  
-- Reusable component patterns and maintainable frontend conventions  
-- Docker and Docker Compose standardization for dev and deployments  
-- Quality and observability improvements (code reviews, SonarQube, Sentry)
-
-**Independent** - Full Stack Web Developer & UX Designer (Freelance) | Jan 2020 - Jan 2022  
-- End-to-end delivery: discovery, UI/UX, implementation, deployment, maintenance  
-- Conversion-focused responsive interfaces  
-- Shopify/WordPress/WooCommerce integrations  
-- Linux deployments and performance optimizations
-
-**Neopolis Corporations** - Full Stack Web Developer & UX Designer (Internship) | Jul 2020 - Sep 2020  
-- UI/UX prototypes for an insurance CRM (GeoProd) in Adobe XD and Figma  
-- Handoff-ready user flows to reduce implementation ambiguity
-
----
-
-## Selected projects
-
-- **Crescendo (Arts Education Platform)**: Next.js platform co-piloted with the Tunisian Ministry of Education and Institut Français de Tunisie (content, forums, roles). MongoDB + MinIO (S3).
-- **Ecademy (E-learning Platform)**: LMS in Next.js + TypeScript (course creation, payments, progress tracking). Prisma + Stripe. Dockerized deployment.
-- **AI Knowledge Assistant (RAG Prototype)**: Embeddings + vector search retrieval, tool-calling patterns, and basic evaluation checks.
-- **SecretMaison.tn (E-commerce)**: WooCommerce storefront with UX and performance improvements across product pages and checkout.
-
----
-
 ## 💻 Tech stack
 
 ### Frontend
@@ -89,18 +51,8 @@ I’m a Full Stack Engineer with 5 years of experience building web applications
 
 ---
 
-## Education, certifications, and languages
-
-- Engineer’s Degree in Software Engineering - South Mediterranean University (MSB/MedTech/LCI), 2022
-- Certifications: Advanced React by Meta (Oct 2023), Web Development Bootcamp (Nov 2023), Python for Data Science/AI (Oct 2021)
-- Award: Employee of the Month - Telnet Holding (Dec 2022)
-- Languages: Arabic (Native), French (Fluent), English (Fluent)
-
----
-
 ## Contact
 
 - Portfolio: https://mohamedaleya.dev
 - LinkedIn: https://linkedin.com/in/mohamedaleya
 - Email: mohamed.aleya@outlook.com
-- GitHub: https://github.com/mohamedaleya
